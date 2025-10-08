@@ -1,7 +1,7 @@
 # 🚗 Electric Vehicle Population Data Analysis
 
 ### 📊 Project Overview
-This project analyzes Electric Vehicle (EV) population data to understand the adoption patterns, market share, and performance of electric vehicles across various states. Using **Tableau** and **Power BI**, the dashboard provides clear insights into EV growth, distribution, and manufacturer trends.
+This project analyzes Electric Vehicle (EV) population data to understand the adoption patterns, market share, and performance of electric vehicles across various states. The dashboard provides clear insights into EV growth, distribution, and manufacturer trends.
 
 ---
 
