@@ -38,6 +38,3 @@ This analysis focuses on:
 | **Bar Chart** | Top 10 manufacturers |
 | **Pie/Donut Chart** | CAFV eligibility ratio |
 | **Grid/Table View** | Top 10 EV models |
-
-### 📜 License
-This project is licensed under the **MIT License** – feel free to use, modify, and share with credit.
